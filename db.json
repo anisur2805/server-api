@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "cbdd6087-c2e8-4d62-8df0-0981c6776647",
+      "name": "Khairul Islam",
+      "email": "khairul@gmail.com",
+      "address": "Rajhshahi, Bangladesh"
+    },
+    {
+      "id": "ac63fec3-221a-4864-8e1b-095e3b87575b",
+      "name": "Mazharul Islam",
+      "email": "mazharul@gmail.com",
+      "address": "Gaibandha, Bangladesh"
+    },
+    {
+      "id": "e8f156f3-f78e-4510-a5ad-d2581a9f747c",
+      "name": "Moshiur Rayhan ",
+      "email": "rayhan@dadu.com",
+      "address": "Rajshahi, Bangladesh"
+    },
+    {
+      "id": "06047927-3223-4f28-a622-99d69c28bf89",
+      "name": "Anisur Rahman",
+      "email": "anisur@rahman.com",
+      "address": "Joypurhat, Bangladesh"
+    }
+  ]
+}
